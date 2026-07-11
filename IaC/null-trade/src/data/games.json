@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima",
+    "price": 29990,
+    "platform": "Digital / Físico",
+    "genre": "Acción",
+    "image": "ghostoftsushima.webp",
+    "description": "En 1274, los mongoles invaden la isla de Tsushima. Jin Sakai, un samurái, debe abandonar las tradiciones para forjar un nuevo camino de combate y proteger su hogar.",
+    "developer": "Sucker Punch Productions",
+    "releaseYear": 2020,
+    "rating": 9.2
+  },
+  {
+    "id": "crusader-kings-3",
+    "title": "Crusader Kings III",
+    "price": 35200,
+    "platform": "Digital",
+    "genre": "Estrategia",
+    "image": "crusaderkings3.webp",
+    "description": "Gobierna una dinastía medieval a través de guerras, intrigas matrimoniales y conspiraciones. Cada decisión moldea la historia de tu linaje a través de los siglos.",
+    "developer": "Paradox Development Studio",
+    "releaseYear": 2020,
+    "rating": 8.7
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "price": 45499,
+    "platform": "Digital / Físico",
+    "genre": "RPG",
+    "image": "eldenring.webp",
+    "description": "Un mundo abierto oscuro creado por FromSoftware y George R.R. Martin. Explora las Tierras Intermedias y conviértete en Lord del Círculo de Elden.",
+    "developer": "FromSoftware",
+    "releaseYear": 2022,
+    "rating": 9.6
+  },
+  {
+    "id": "hades-2",
+    "title": "Hades II",
+    "price": 15500,
+    "platform": "Digital",
+    "genre": "Roguelike",
+    "image": "hades2.webp",
+    "description": "Melinoë, hermana de Zagreus, debe derrotar a Crono con la ayuda de las brujas y los dioses del Olimpo en este roguelike de acción con combate mágico.",
+    "developer": "Supergiant Games",
+    "releaseYear": 2024,
+    "rating": 8.9
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "price": 8300,
+    "platform": "Digital",
+    "genre": "Metroidvania",
+    "image": "hollowkinght.webp",
+    "description": "Explora las profundidades de Hallownest, un reino subterráneo lleno de misterios, criaturas olvidadas y jefes épicos en este aclamado metroidvania.",
+    "developer": "Team Cherry",
+    "releaseYear": 2017,
+    "rating": 9.0
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "price": 10500,
+    "platform": "Digital",
+    "genre": "Metroidvania",
+    "image": "silksong.webp",
+    "description": "Hornet emprende una nueva aventura en el reino de Pharloom, donde deberá escalar una torre misteriosa y enfrentar nuevos enemigos y jefes letales.",
+    "developer": "Team Cherry",
+    "releaseYear": 2025,
+    "rating": 8.8
+  },
+  {
+    "id": "forza-horizon-6",
+    "title": "Forza Horizon 6",
+    "price": 60000,
+    "platform": "Digital / Físico",
+    "genre": "Carreras",
+    "image": "forzahorizon.webp",
+    "description": "Explora los paisajes vibrantes de México en el festival automovilístico más grande del mundo. Más de 500 coches y un mundo abierto espectacular.",
+    "developer": "Playground Games",
+    "releaseYear": 2026,
+    "rating": 9.5
+  },
+  {
+    "id": "escape-from-tarkov",
+    "title": "Escape from Tarkov",
+    "price": 19000,
+    "platform": "Digital",
+    "genre": "Shooter táctico",
+    "image": "escapefromtarkov.webp",
+    "description": "Un shooter táctico hardcore con elementos de RPG y supervivencia. Sobrevive en las ruinas de Tarkov, saquea, combate y escapa con vida.",
+    "developer": "Battlestate Games",
+    "releaseYear": 2017,
+    "rating": 8.3
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "price": 30000,
+    "platform": "Digital",
+    "genre": "Sandbox",
+    "image": "minecraft.webp",
+    "description": "El mundo abierto por excelencia. Construye, explora y sobrevive en un mundo infinito de bloques. Deja volar tu creatividad sin límites.",
+    "developer": "Mojang Studios",
+    "releaseYear": 2011,
+    "rating": 9.4
+  }
+]

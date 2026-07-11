@@ -1,0 +1,41 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform cache directory
+.terraform/
+
+# Terraform lock file (auto-generated, but keep if sharing)
+!.terraform.lock.hcl
+
+# Sensitive variable overrides
+*.auto.tfvars
+personal.tfvars
+secrets.tfvars
+
+# Credentials and keys
+*credentials*
+*.pem
+*.key
+aws-config.yml
+~/.aws/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# PowerShell profiles
+profile.ps1
+
+# Script outputs
+*.log
+
+# Real variable values (sensitive per-environment)
+terraform.tfvars

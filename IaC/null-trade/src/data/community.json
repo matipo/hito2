@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cuentas",
+    "title": "Cuentas",
+    "description": "Compra y vende cuentas de juegos y plataformas verificadas por la comunidad.",
+    "icon": "Facelaugh",
+    "items": [
+      { "title": "Cuenta PS5 + 50 juegos", "platform": "PS5", "level": "Nivel 120", "price": 89990, "seller": "xNightSlayer" },
+      { "title": "Cuenta Steam 200+ juegos", "platform": "Steam", "level": "Nivel 45", "price": 59990, "seller": "ProGamerCL" },
+      { "title": "Cuenta Xbox Game Pass Ultimate", "platform": "Xbox", "level": "Nivel 80", "price": 34990, "seller": "MasterChief99" },
+      { "title": "Cuenta Switch con Zelda BOTW + TOTK", "platform": "Switch", "level": "Nivel 60", "price": 44990, "seller": "HylianHero" },
+      { "title": "Cuenta Epic Games Fortnite OG", "platform": "Epic Games", "level": "Nivel 200", "price": 129990, "seller": "OG_Skins" },
+      { "title": "Cuenta Steam CS2 Premium", "platform": "Steam", "level": "Nivel 30", "price": 74990, "seller": "CS2Trader" }
+    ]
+  },
+  {
+    "id": "skins",
+    "title": "Skins",
+    "description": "Intercambia skins, cosméticos y objetos digitales para tus juegos favoritos.",
+    "icon": "Gamepad",
+    "items": [
+      { "title": "Dragon Lore AWP", "game": "CS2", "rarity": "Legendario", "price": 299990, "seller": "SkinVault" },
+      { "title": "Kit P1 SELUXE Varya", "game": "Valorant", "rarity": "Épico", "price": 19990, "seller": "ValShop" },
+      { "title": "Gilded Glorias Khaimera", "game": "Dead by Daylight", "rarity": "Raro", "price": 9990, "seller": "DBD_Main" },
+      { "title": "Traveler Select Banner", "game": "Genshin Impact", "rarity": "Legendario", "price": 5990, "seller": "WishMaster" },
+      { "title": "Black Knight Fortnite", "game": "Fortnite", "rarity": "Legendario", "price": 189990, "seller": "OG_Skins" },
+      { "title": "Paradox Persona Jin", "game": "Overwatch 2", "rarity": "Épico", "price": 4990, "seller": "OW2Collector" }
+    ]
+  },
+  {
+    "id": "tradeos",
+    "title": "Tradeos",
+    "description": "Trueques directos entre jugadores. Intercambia lo que no usas por lo que necesitas.",
+    "icon": "Arrowright",
+    "items": [
+      { "title": "Elden Ring PS5", "offer": "Elden Ring PS5", "want": "God of War Ragnarök PS5", "user": "SamuraiJack" },
+      { "title": "Colección Switch", "offer": "Zelda TOTK Switch", "want": "Mario Kart 8 Deluxe", "user": "NintendoFan" },
+      { "title": "Juego PC", "offer": "Cyberpunk 2077 PC", "want": "Baldur's Gate 3 PC", "user": "PCMaster" },
+      { "title": "Skins Fortnite", "offer": "Ikonic Skin PS4", "want": "Cualquier skin legendaria", "user": "FortTrader" },
+      { "title": "Cuenta Xbox", "offer": "Game Pass 6 meses", "want": "PS Plus Premium 6 meses", "user": "ServiceSwap" }
+    ]
+  },
+  {
+    "id": "guias",
+    "title": "Guías",
+    "description": "Comparte y descubre guías, trucos y tutoriales escritos por la comunidad.",
+    "icon": "Facelaugh",
+    "items": [
+      { "title": "Guía completa Elden Ring", "game": "Elden Ring", "author": "DarkSoulsPro", "likes": 342 },
+      { "title": "Todos los secretos de Hollow Knight", "game": "Hollow Knight", "author": "BugKnight", "likes": 189 },
+      { "title": "Builds meta CS2 2025", "game": "CS2", "author": "TacticalFPS", "likes": 256 },
+      { "title": " farming Genshin Impact - Guía AR60", "game": "Genshin Impact", "author": "PaimonFan", "likes": 412 },
+      { "title": "Platinum Ghost of Tsushima", "game": "Ghost of Tsushima", "author": "GhostBlade", "likes": 98 }
+    ]
+  }
+]
